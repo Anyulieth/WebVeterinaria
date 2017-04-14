@@ -1,0 +1,5 @@
+C:\WebVeterinaria\WebVeterinaria\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\WebVeterinaria\WebVeterinaria\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\WebVeterinaria\WebVeterinaria\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\WebVeterinaria\WebVeterinaria\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\WebVeterinaria\WebVeterinaria\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache

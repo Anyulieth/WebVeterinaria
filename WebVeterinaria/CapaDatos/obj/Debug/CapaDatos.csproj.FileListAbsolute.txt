@@ -1,0 +1,7 @@
+C:\WebVeterinaria\WebVeterinaria\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\WebVeterinaria\WebVeterinaria\CapaDatos\bin\Debug\CapaDatos.dll
+C:\WebVeterinaria\WebVeterinaria\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\WebVeterinaria\WebVeterinaria\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\WebVeterinaria\WebVeterinaria\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\WebVeterinaria\WebVeterinaria\CapaDatos\obj\Debug\CapaDatos.dll
+C:\WebVeterinaria\WebVeterinaria\CapaDatos\obj\Debug\CapaDatos.pdb

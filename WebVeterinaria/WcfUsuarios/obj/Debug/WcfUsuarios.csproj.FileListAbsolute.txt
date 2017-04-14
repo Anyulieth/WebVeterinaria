@@ -1,0 +1,12 @@
+C:\WebVeterinaria\WebVeterinaria\WcfUsuarios\obj\Debug\WcfUsuarios.csprojResolveAssemblyReference.cache
+C:\WebVeterinaria\WebVeterinaria\WcfUsuarios\bin\WcfUsuarios.dll.config
+C:\WebVeterinaria\WebVeterinaria\WcfUsuarios\bin\WcfUsuarios.dll
+C:\WebVeterinaria\WebVeterinaria\WcfUsuarios\bin\WcfUsuarios.pdb
+C:\WebVeterinaria\WebVeterinaria\WcfUsuarios\bin\CapaEntidades.dll
+C:\WebVeterinaria\WebVeterinaria\WcfUsuarios\bin\CapaNegocio.dll
+C:\WebVeterinaria\WebVeterinaria\WcfUsuarios\bin\CapaDatos.dll
+C:\WebVeterinaria\WebVeterinaria\WcfUsuarios\bin\CapaEntidades.pdb
+C:\WebVeterinaria\WebVeterinaria\WcfUsuarios\bin\CapaNegocio.pdb
+C:\WebVeterinaria\WebVeterinaria\WcfUsuarios\bin\CapaDatos.pdb
+C:\WebVeterinaria\WebVeterinaria\WcfUsuarios\obj\Debug\WcfUsuarios.dll
+C:\WebVeterinaria\WebVeterinaria\WcfUsuarios\obj\Debug\WcfUsuarios.pdb
